@@ -1,2 +1,2 @@
-usage:
-	python linear_unit.py
+usage:\n
+	\tpython linear_unit.py
